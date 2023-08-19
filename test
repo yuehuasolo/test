@@ -1,0 +1,7 @@
+
+test git rm <file>
+
+and then i doesn't git commit again
+
+try to use 'git restore --staged <file>' to unstaged
+
